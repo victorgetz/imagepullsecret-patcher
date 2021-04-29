@@ -26,4 +26,4 @@ env:
   #comma-separated namespaces excluded from processing
   CONFIG_EXCLUDED_NAMESPACES :
   #duration string which defines how often namespaces are checked, see https://golang.org/pkg/time/#ParseDuration for more examples
-  CONFIG_LOOP_DURATION: 10s
+  CONFIG_LOOP_DURATION: 5s
